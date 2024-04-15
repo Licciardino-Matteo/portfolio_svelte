@@ -10,9 +10,9 @@
 	let downloadFileName2 = "Don-bosco.docx";
 	let downloadFileName3 = "http-response-code.docx";
 
-	let downloadFileUrl = "/src/routes/Materie/file/Bio-covid.docx";
-	let downloadFileUrl2 = "/src/routes/Materie/file/Don-bosco.docx";
-	let downloadFileUrl3 = "/src/routes/Materie/file/http-response-code.docx";
+	let downloadFileUrl = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Materie/file/Bio-covid.docx";
+	let downloadFileUrl2 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Materie/file/Don-bosco.docx";
+	let downloadFileUrl3 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Materie/file/http-response-code.docx";
 </script>
 
 <svelte:head>

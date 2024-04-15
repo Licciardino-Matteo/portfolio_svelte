@@ -19,14 +19,14 @@
 	let downloadFileName7 = "Stragi-in-Italia.pptx";
 	let downloadFileName8 = "Educazione-civica-sulle-prigioni.pptx"
 
-	let downloadFileUrl = "/src/routes/Italiano/file/Emancipazione-donna.pptx";
-	let downloadFileUrl2 = "/src/routes/Italiano/file/Mafia.pptx";
-	let downloadFileUrl3 = "/src/routes/Italiano/file/Pio-La-Torre.docx";
-	let downloadFileUrl4 = "/src/routes/Italiano/file/Despitaggio.pptx";
-	let downloadFileUrl5 = "/src/routes/Italiano/file/Pena-di-morte.pptx";
-	let downloadFileUrl6 = "/src/routes/Italiano/file/Ospedali-psichiatrici.pptx";
-	let downloadFileUrl7 = "/src/routes/Italiano/file/Stragi-in-Italia.pptx";
-	let downloadFileUrl8 = "/src/routes/Italiano/file/Educazione-civica-sulle-prigioni.pptx"
+	let downloadFileUrl = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Italiano/file/Emancipazione-donna.pptx";
+	let downloadFileUrl2 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Italiano/file/Mafia.pptx";
+	let downloadFileUrl3 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Italiano/file/Pio-La-Torre.docx";
+	let downloadFileUrl4 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Italiano/file/Despitaggio.pptx";
+	let downloadFileUrl5 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Italiano/file/Pena-di-morte.pptx";
+	let downloadFileUrl6 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Italiano/file/Ospedali-psichiatrici.pptx";
+	let downloadFileUrl7 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Italiano/file/Stragi-in-Italia.pptx";
+	let downloadFileUrl8 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Italiano/file/Educazione-civica-sulle-prigioni.pptx"
 </script>
 
 <svelte:head>

@@ -11,10 +11,10 @@
 	let downloadFileName3 = "Licciardino_cv.zip";
 	let downloadFileName4 = "lettera_presentazione.zip";
 
-	let downloadFileUrl = "/src/routes/Informatica/file/calcolo-cf.zip";
-	let downloadFileUrl2 = "/src/routes/Informatica/file/Regole-web.pptx";
-	let downloadFileUrl3 = "/src/routes/Informatica/file/Licciardino_cv.zip";
-	let downloadFileUrl4 = "/src/routes/Informatica/file/lettera_presentazione.zip";
+	let downloadFileUrl = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Informatica/file/calcolo-cf.zip";
+	let downloadFileUrl2 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Informatica/file/Regole-web.pptx";
+	let downloadFileUrl3 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Informatica/file/Licciardino_cv.zip";
+	let downloadFileUrl4 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Informatica/file/lettera_presentazione.zip";
 </script>
 
 <svelte:head>

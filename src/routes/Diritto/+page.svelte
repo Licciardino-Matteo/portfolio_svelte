@@ -8,8 +8,8 @@
 	let downloadFileName = "La-casa-di-Paolo.docx";
 	let downloadFileName2 = "Problemi-Portogallo.docx";
 
-	let downloadFileUrl = "/src/routes/Diritto/file/La-casa-di-Paolo.docx";
-	let downloadFileUrl2 = "/src/routes/Diritto/file/Problemi-Portogallo.docx";
+	let downloadFileUrl = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Diritto/file/La-casa-di-Paolo.docx";
+	let downloadFileUrl2 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Diritto/file/Problemi-Portogallo.docx";
 </script>
 
 <svelte:head>

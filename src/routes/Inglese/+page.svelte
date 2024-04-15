@@ -18,14 +18,14 @@
 	let downloadFileName7 = "Licciardino_cv(English).zip";
 	let downloadFileName8 = "educazione-civica-inglese.pptx";
 
-	let downloadFileUrl = "/src/routes/Inglese/file/Tories-Whigs.zip";
-	let downloadFileUrl2 = "/src/routes/Inglese/file/ONU_(eng).docx";
-	let downloadFileUrl3 = "/src/routes/Inglese/file/CLIL-PROJECT.pptx";
-	let downloadFileUrl4 = "/src/routes/Inglese/file/The-fun-they-had.zip";
-	let downloadFileUrl5 = "/src/routes/Inglese/file/Isaac_Asimov-(dibattito).docx";
-	let downloadFileUrl6 = "/src/routes/Inglese/file/lettera_presentazione(English).zip";
-	let downloadFileUrl7 = "/src/routes/Inglese/file/Licciardino_cv(English).zip";
-	let downloadFileUrl8 = "/src/routes/Inglese/file/educazione-civica-inglese.pptx";
+	let downloadFileUrl = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Inglese/file/Tories-Whigs.zip";
+	let downloadFileUrl2 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Inglese/file/ONU_(eng).docx";
+	let downloadFileUrl3 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Inglese/file/CLIL-PROJECT.pptx";
+	let downloadFileUrl4 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Inglese/file/The-fun-they-had.zip";
+	let downloadFileUrl5 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Inglese/file/Isaac_Asimov-(dibattito).docx";
+	let downloadFileUrl6 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Inglese/file/lettera_presentazione(English).zip";
+	let downloadFileUrl7 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Inglese/file/Licciardino_cv(English).zip";
+	let downloadFileUrl8 = "https://github.com/Licciardino-Matteo/portfolio_svelte/raw/main/src/routes/Inglese/file/educazione-civica-inglese.pptx";
 </script>
 
 <svelte:head>
