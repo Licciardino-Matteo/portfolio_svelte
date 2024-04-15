@@ -8,23 +8,23 @@
 			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
 		</svg>
 		<ul>
-			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-				<a href="/">Presentazione</a>
+			<li aria-current={$page.url.pathname === '/portfolio_svelte' ? 'page' : undefined}>
+				<a href="/portfolio_svelte">Presentazione</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/Inglese' ? 'page' : undefined}>
-				<a href="/Inglese">Inglese</a>
+			<li aria-current={$page.url.pathname === '/portfolio_svelte/Inglese' ? 'page' : undefined}>
+				<a href="/portfolio_svelte/Inglese">Inglese</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/Diritto' ? 'page' : undefined}>
-				<a href="/Diritto">Diritto</a>
+			<li aria-current={$page.url.pathname === '/portfolio_svelte/Diritto' ? 'page' : undefined}>
+				<a href="/portfolio_svelte/Diritto">Diritto</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/Italiano' ? 'page' : undefined}>
-				<a href="/Italiano">Italiano</a>
+			<li aria-current={$page.url.pathname === '/portfolio_svelte/Italiano' ? 'page' : undefined}>
+				<a href="/portfolio_svelte/Italiano">Italiano</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/Informatica' ? 'page' : undefined}>
-				<a href="/Informatica">Informatica</a>
+			<li aria-current={$page.url.pathname === '/portfolio_svelte/Informatica' ? 'page' : undefined}>
+				<a href="/portfolio_svelte/Informatica">Informatica</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/Materie' ? 'page' : undefined}>
-				<a href="/Materie">Materie</a>
+			<li aria-current={$page.url.pathname === '/portfolio_svelte/Materie' ? 'page' : undefined}>
+				<a href="/portfolio_svelte/Materie">Materie</a>
 			</li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
